@@ -1,4 +1,4 @@
-package com.kartik.training;
+package com.chinnu.training;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.Connection;
