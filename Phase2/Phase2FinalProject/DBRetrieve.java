@@ -1,4 +1,4 @@
-package com.kartik.training;
+package com.chinnu.training;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
