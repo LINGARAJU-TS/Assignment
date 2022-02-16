@@ -1,4 +1,4 @@
-package com.kartik.training;
+package com.chinnu.training;
 public class Student {	
 	private int id;
 	private String fname;
