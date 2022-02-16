@@ -1,4 +1,4 @@
-package com.kartik.training;
+package com.chinnu.training;
 import java.io.IOException;
 import java.util.List;
 import javax.annotation.Resource;
